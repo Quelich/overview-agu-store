@@ -27,9 +27,10 @@
 - You are free to fork this project and develop your own e-commerce app with more beautiful layouts and features :)
 - If you detect any problem related to this project. You can ticket an issue freely on Github.
 # Learning Outcomes
-- Using Dart programming language to develop layouts and organize data in Android platform.
+- Using Dart programming language to develop layouts and organize data in Android platform. Also using Object-Oriented programming, asychronous programming, networking.
 - Using Google Firebase products, Cloud Firestore, Cloud Authentication, to maintain backend easily.
 - Implementing Mobile Security measures to demonstrate how a mobile app can be secured.
+- Implementing an Flutter-embedded database, SQLite.
 
 # API Reference
 - [Abstract API](https://www.abstractapi.com/)
