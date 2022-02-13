@@ -1,10 +1,15 @@
 # Overview
 
-<img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644333250.png?token=GHSAT0AAAAAABQ7CPEMXQV5TFZMU5I74FV6YQL7M7Q" alt="drawing"  height="500" width="250"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644333250.png?token=GHSAT0AAAAAABQ7CPEMXQV5TFZMU5I74FV6YQL7M7Q" alt="drawing"  height="500" width="250"/>
 <img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="500" width="250"/>
 <img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333277.png?raw=true" alt="drawing"  height="500" width="250"/>
+      <img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644751634.png?token=GHSAT0AAAAAABQ7CPEMOAC77FKAVH6X6DRMYQSEXBA" alt="drawing"  height="500" width="250"/>
 <img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333282.png?raw=true" alt="drawing"  height="500" width="250"/>
-<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="500" width="250"/>
+  <img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644751531.png?token=GHSAT0AAAAAABQ7CPEM7UGYZT6IXUDF3EIIYQSEVXA" alt="drawing"  height="500" width="250"/>
+
+</p>
+
 
 
 
@@ -17,10 +22,11 @@
 
 # Features
 - This project does not have an integrated payment API. So you can freely integrate your own choice of API.
-- Create categories for products on Cloud Firestore to be shown on Home page.
+- Display categories on Home page.
 - Create orders on Cart page.
 - Authenticate your customers on Account page.
 - Validate phone numbers via Abstract API. You can also make use of different APIs with respect to this implementation.
+- Check the security measures on Settings page
 # Mobile Security Measures
 - Disabled screenshots for particular view of the app to secure personal information.
 # Contribute
