@@ -25,7 +25,7 @@
 - Disabled screenshots for particular view of the app to secure personal information.
 # Contribute
 - You are free to fork this project and develop your own e-commerce app with more beautiful layouts and features :)
-- If you detect any problem related to this project. You can ticket an issue freely.
+- If you detect any problem related to this project. You can ticket an issue freely on Github.
 # Learning Outcomes
 - Using Dart programming language to develop layouts and organize data in Android platform.
 - Using Google Firebase products, Cloud Firestore, Cloud Authentication, to maintain backend easily.
