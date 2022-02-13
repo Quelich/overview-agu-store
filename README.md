@@ -32,3 +32,17 @@
 - Using Google Firebase products, Cloud Firestore, Cloud Authentication, to maintain backend easily.
 - Implementing Mobile Security measures to demonstrate how a mobile app should be secured.
 
+# API Reference
+- [Abstract API](https://www.abstractapi.com/)
+# Setup
+- Follow the steps accordingly.
+## Version
+- Make sure your IDE has the latest Flutter, Kotlin, Dart versions.
+-  Also make sure your Android SDK version is the latest. 
+## Firebase
+- Navigate to [Firebase](https://firebase.google.com/) and create a Firebase project and update your config files including google-services.json
+## Pubspec.yaml
+- You have to include the packages in [pubspec.yaml]()
+## Mobile Security
+### .env
+- You need to create a [.env]() file to secure your api keys.
