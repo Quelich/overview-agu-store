@@ -1,6 +1,6 @@
 # Overview
 
-<img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644333250.png?token=GHSAT0AAAAAABQ7CPEMXQV5TFZMU5I74FV6YQL7M7Q" alt="drawing"  height="600" width="300"/>
+<img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644333250.png?token=GHSAT0AAAAAABQ7CPEMXQV5TFZMU5I74FV6YQL7M7Q" alt="drawing"  height="500" width="250"/>
 <img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="500" width="250"/>
 <img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333277.png?raw=true" alt="drawing"  height="500" width="250"/>
 <img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333282.png?raw=true" alt="drawing"  height="500" width="250"/>
@@ -11,8 +11,8 @@
 
 
 # Purpose
-- This project is essentially developed to draw a standard schema of e-commerce application development for android platform.
-- If you want to develop a e-commerce app for your business, college etc., this project could be helpful to start. 
+- This project is essentially developed to draw a standard schema for e-commerce application development for Android platform.
+- If you want to develop an e-commerce app for your business, college etc... this project could be helpful to start.
 
 
 # Features
@@ -22,9 +22,9 @@
 - Authenticate your customers on Account page.
 - Validate phone numbers via Abstract API. You can also make use of different APIs with respect to this implementation.
 # Mobile Security Measures
-- Disabled screenshots for particular view of te app to secure personal information.
+- Disabled screenshots for particular view of the app to secure personal information.
 # Contribute
-- You are free to fork this project and develop your own e-commerce app with more beatiful layouts and features :)
+- You are free to fork this project and develop your own e-commerce app with more beautiful layouts and features :)
 - If you detect any problem related to this project. You can ticket an issue freely.
 # Learning Outcomes
 - Using Dart programming language to develop layouts and organize data in Android platform.
@@ -37,7 +37,7 @@
 - Follow the steps accordingly.
 ## Version
 - Make sure your IDE has the latest Flutter, Kotlin, Dart versions.
--  Also make sure your Android SDK version is the latest. 
+- Also make sure your Android SDK version is the latest.
 ## Firebase
 - Navigate to [Firebase](https://firebase.google.com/) and create a Firebase project and update your config files including google-services.json
 ## Pubspec.yaml
