@@ -29,7 +29,7 @@
 # Learning Outcomes
 - Using Dart programming language to develop layouts and organize data in Android platform.
 - Using Google Firebase products, Cloud Firestore, Cloud Authentication, to maintain backend easily.
-- Implementing Mobile Security measures to demonstrate how a mobile app should be secured.
+- Implementing Mobile Security measures to demonstrate how a mobile app can be secured.
 
 # API Reference
 - [Abstract API](https://www.abstractapi.com/)
