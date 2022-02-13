@@ -1,11 +1,10 @@
 # Overview
 
 <img src="https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/Screenshot_1644333250.png?token=GHSAT0AAAAAABQ7CPEMXQV5TFZMU5I74FV6YQL7M7Q" alt="drawing"  height="600" width="300"/>
-<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="600" width="300"/>
-<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333277.png?raw=true" alt="drawing"  height="600" width="300"/>
-<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333282.png?raw=true" alt="drawing"  height="600" width="300"/>
-<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="600" width="300"/>
-<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644339864.png?raw=true" alt="drawing"  height="600" width="300"/>
+<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="500" width="250"/>
+<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333277.png?raw=true" alt="drawing"  height="500" width="250"/>
+<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333282.png?raw=true" alt="drawing"  height="500" width="250"/>
+<img src="https://github.com/Quelich/overview-agu-store/blob/main/img/Screenshot_1644333264.png?raw=true" alt="drawing"  height="500" width="250"/>
 
 
 
@@ -42,7 +41,7 @@
 ## Firebase
 - Navigate to [Firebase](https://firebase.google.com/) and create a Firebase project and update your config files including google-services.json
 ## Pubspec.yaml
-- You have to include the packages in [pubspec.yaml]()
+- You have to include the packages in [pubspec.yaml](https://github.com/Quelich/overview-agu-store/blob/main/pubspec.yaml)
 ## Mobile Security
 ### .env
-- You need to create a [.env]() file to secure your api keys.
+- You need to create a [.env](https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/env-file.png?token=GHSAT0AAAAAABQ7CPEMP5NFFXA53BVZBRBCYQSDZMA) file to secure your api keys.
