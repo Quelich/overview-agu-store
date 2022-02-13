@@ -12,7 +12,7 @@
 
 # Purpose
 - This project is essentially developed to draw a standard schema for e-commerce application development for Android platform.
-- If you want to develop an e-commerce app for your business, college etc... this project could be helpful to start.
+- If you develop an e-commerce app for your business or college, this project could be handy.
 
 
 # Features
@@ -40,6 +40,8 @@
 - Also make sure your Android SDK version is the latest.
 ## Firebase
 - Navigate to [Firebase](https://firebase.google.com/) and create a Firebase project and update your config files including google-services.json
+## Firestore
+- You can integrate another API to retrieve products or you can retrieve products from Firestore like [this](https://raw.githubusercontent.com/Quelich/overview-agu-store/main/img/firestore-0.png?token=GHSAT0AAAAAABQ7CPEMN2C46NR3BV4CK5P4YQSEEKA)
 ## Pubspec.yaml
 - You have to include the packages in [pubspec.yaml](https://github.com/Quelich/overview-agu-store/blob/main/pubspec.yaml)
 ## Mobile Security
